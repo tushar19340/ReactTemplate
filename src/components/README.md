@@ -1,0 +1,2 @@
+- Only shared components used across features are placed here
+- All the components should be registered and exported from /index.js for a single access point.
